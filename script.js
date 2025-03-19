@@ -1,1 +1,1 @@
-window.alert(`width is ${screnn.availWidth} and height is ${screen.availHeight}`);
+alert(`width is ${screen.availWidth} and height is ${screen.availHeight}`);
